@@ -6,7 +6,6 @@ I was given a task of predicting the grades a student under KTU would get for fi
   Dataset used contained grade points of students studying in the civil enggineering department of PRS college.
 
 *Total Number of students : 59 (after cleaning and preprocessing of data)*  (ik yeah it's too small!!! :cry:)
-
 *Validation holdout contained 10% of whole dataset.* (damn... way too small. :sob:)
 
 I am trying to get my hands on more data! :thumbsup:
