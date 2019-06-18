@@ -17,7 +17,7 @@ Dataset was converted and made the grades points between 0 and 1 and fed into th
 
 # Results
 :relieved:
-I was able to achieve a RMSE(Root Mean Squared Error) of 1.33 on validation set which is pretty good :satisfied: considering the fact we are predicting on a cross domain situation. **(subjects in input has no direct relation for subjects in output rather than both are from same branch of engg.)**
+I was able to achieve a RMSE(Root Mean Squared Error) of 1.33(lower is better) on validation set which is pretty good :satisfied: considering the fact we are predicting on a cross domain situation. **(subjects in input has no direct relation for subjects in output rather than both are from same branch of engg.)**
 Training on more data will lead to more performance.
 
 # Notes
